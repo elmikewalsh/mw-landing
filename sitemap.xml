@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://mike.walsh.cl/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.soymw.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://mike.walsh.cl/</loc>
+<loc>https://www.soymw.com/</loc>
 </url>
 <url>
-<loc>https://mike.walsh.cl/home/</loc>
+<loc>https://www.soymw.com/home/</loc>
 <lastmod>2024-06-11T18:05:14-04:00</lastmod>
 <image:image>
-<image:loc>https://mike.walsh.cl/media/posts/4/new-bio-pic.webp</image:loc>
+<image:loc>https://www.soymw.com/media/posts/4/new-bio-pic.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

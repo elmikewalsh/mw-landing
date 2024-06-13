@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Escribo Cosas</title>
-    <link href="https://mike.walsh.cl/feed.xml" rel="self" />
-    <link href="https://mike.walsh.cl" />
+    <link href="https://www.soymw.com/feed.xml" rel="self" />
+    <link href="https://www.soymw.com" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
-    <id>https://mike.walsh.cl</id>
+    <id>https://www.soymw.com</id>
 
 </feed>

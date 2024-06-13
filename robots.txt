@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://mike.walsh.cl/sitemap.xml
+Sitemap: https://www.soymw.com/sitemap.xml
