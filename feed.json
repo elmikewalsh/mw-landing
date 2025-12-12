@@ -1,12 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Escribo Cosas",
+    "title": "I Write Stuff",
     "description": "",
-    "home_page_url": "https://www.soymw.com",
-    "feed_url": "https://www.soymw.com/feed.json",
+    "home_page_url": "https://www.walsh.soy",
+    "feed_url": "https://www.walsh.soy/feed.json",
     "user_comment": "",
+    "icon": "https://www.walsh.soy/media/website/party-logo-2.webp",
     "author": {
-        "name": "elmikewalsh"
+        "name": "michaelwalsh"
     },
     "items": [
     ]

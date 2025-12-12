@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.soymw.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.walsh.soy/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.soymw.com/</loc>
+<loc>https://www.walsh.soy/</loc>
 </url>
 <url>
-<loc>https://www.soymw.com/articulos/</loc>
+<loc>https://www.walsh.soy/articles/</loc>
 </url>
 <url>
-<loc>https://www.soymw.com/home/</loc>
-<lastmod>2025-08-06T18:13:20-04:00</lastmod>
-<image:image>
-<image:loc>https://www.soymw.com/media/posts/4/new-bio-pic.webp</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
+<loc>https://www.walsh.soy/my/michaelwalsh/</loc>
 </url>
 </urlset>
